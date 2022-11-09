@@ -6,12 +6,12 @@ It is developed using HTML, pure JS and CSS.
 -------------------------------------------------------------------
 **SHUFFLE**
 
-On Clicking Shuffle button, it modifies the position of the tiles randomly.
+On Clicking of Shuffle button, it modifies the position of the tiles randomly.
 
 -------------------------------------------------------------------
 **SORT**
 
-On Clicking Sort button, it arranges the tiles in sequence.
+On Clicking of Sort button, it arranges the tiles in sequence.
 
 -------------------------------------------------------------------
 
