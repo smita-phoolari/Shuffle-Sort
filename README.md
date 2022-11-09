@@ -24,7 +24,7 @@ On Clicking Sort button, it arranges the tiles in sequence.
 
 2. Sorted Order
 
-![image](https://user-images.githubusercontent.com/112422376/200862829-75cea8b1-f326-49e2-9457-6362341a9c7c.png)
+![image](https://user-images.githubusercontent.com/112422376/200863584-8e44966b-a653-4ded-a1eb-42f16ef8399f.png)
 
 
 **MOBILE VIEW**
@@ -32,7 +32,6 @@ On Clicking Sort button, it arranges the tiles in sequence.
 1. Shuffled order
 
 ![image](https://user-images.githubusercontent.com/112422376/200863082-9e511b57-c08e-4829-b8a1-fe32e689ee29.png)
-
 
 
 2. Sorted order
